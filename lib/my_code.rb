@@ -19,7 +19,7 @@ def map_to_no_change(source_array)
   return new
 end
 
-def map_to_double
+def map_to_double(source_array)
   new = []
   i = 0
   while i < source_array.length do
